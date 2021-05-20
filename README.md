@@ -1,4 +1,4 @@
-![img](https://github.com/Derailedzack/Dissolution-Legacy/blob/1.12/banners/dissolution.png)
+![img](https://web.archive.org/web/20190202140804/https://media.forgecdn.net/attachments/222/888/banner.png)
 Dissolution is a Minecraft mod aiming at completely revamp the vanilla death experience, by adding new mechanics, such as player souls and possession for example.
 
 ## Curseforge
